@@ -1,5 +1,6 @@
 # ESPAsyncTCP 
-[![Build Status](https://travis-ci.org/me-no-dev/ESPAsyncTCP.svg?branch=master)](https://travis-ci.org/me-no-dev/ESPAsyncTCP) ![](https://github.com/me-no-dev/ESPAsyncTCP/workflows/ESP%20Async%20TCP%20CI/badge.svg)
+
+:exclamation: This is a private repo fork for my personal use.  It should not be used by other projects.
 
 ### Async TCP Library for ESP8266 Arduino
 
