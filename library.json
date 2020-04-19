@@ -12,7 +12,6 @@
             "maintainer": true
         }
     ],
-    "authors": {},
     "repository": {
         "type": "git",
         "url": "https://github.com/lbussy/ESPAsyncTCP.git"
